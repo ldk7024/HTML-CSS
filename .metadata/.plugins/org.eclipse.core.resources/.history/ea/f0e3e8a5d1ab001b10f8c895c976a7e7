@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>form</title>
+</head>
+<body>
+	<form action="#">
+	<input type ="text" name ="ID" placeholder="ID" maxlength="5">
+	<input type ="text" name ="ID2" placeholder="읽기 전용입니다." readonly="readonly" >
+	<label for =p> 좋아하는 음식 </label>
+	<input type ="text" id ="p">
+    <br>
+    <br>
+    <input type="password">
+	
+	
+	</form>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>야구순위</title>
+</head>
+<body>
+<table align = "center" border ="1" width="800" height="800">
+<tr bgcolor="yellow" align = "center">
+<td><b>순위</b></td>
+<td><b>팀명</b></td>
+<td><b>경기</b></td>
+<td><b>승</b></td>
+<td><b>패</b></td>
+<td><b>무</b></td>
+<td><b>승률</b></td>
+<td><b>게임차</b></td>
+<td><b>비고</b></td>
+
+
+</tr>
+<tr>
+<td bgcolor="pink">1</td>
+<td>KIA</td>
+<td>144</td>
+<td>87</td>
+<td>56</td>
+<td>1</td>
+<td>0.608</td>
+<td>0</td>
+<td rowspan="5
+"></td>
+
+
+</tr>
+<tr>
+<td bgcolor="pink">2</td>
+<td>두산</td>
+<td>144</td>
+<td>84</td>
+<td>57</td>
+<td>3</td>
+<td>0.596</td>
+<td>2</td>
+
+
+
+</tr>
+<tr>
+<td bgcolor="pink">3</td>
+<td>롯데</td>
+<td>144</td>
+<td>80</td>
+<td>62</td>
+<td>2</td>
+<td>0.563</td>
+<td>6.5</td>
+
+
+
+</tr>
+<tr>
+<td bgcolor="pink">4</td>
+<td>NC</td>
+<td>144</td>
+<td>79</td>
+<td>62</td>
+<td>3</td>
+<td>0.560</td>
+<td>7</td>
+
+
+
+</tr>
+<tr>
+<td bgcolor="pink">5</td>
+<td>SK</td>
+<td>144</td>
+<td>75</td>
+<td>68</td>
+<td>1</td>
+<td>0.524</td>
+<td>12</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+</body>
+</html>

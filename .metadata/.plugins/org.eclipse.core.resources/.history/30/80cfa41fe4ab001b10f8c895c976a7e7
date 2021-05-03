@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>회원가입</title>
+</head>
+<body>
+	<form action="#">
+		<table width ="400px" align ="center">
+			<tr bgcolor="gray" height ="40">
+			<td colspan="2"><strong>step1: 아이디/비번 입력</strong></td>
+	      </tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">아이디</td>
+			<td><input type ="text"></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">비밀번호</td>
+			<td><input type ="password"></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">비밀번호 확인</td>
+			<td><input type ="password"></td>
+			</tr>
+
+
+
+
+
+		</table>
+			<table width ="400px" align ="center">
+			<tr bgcolor="gray" height ="40">
+			<td colspan="2"><strong>step2: 개인정보</strong></td>
+	      </tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">성별:</td>
+			<td><input type ="text"></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">혈액형</td>
+			<td><input type ="password"></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">생일</td>
+			<td><input type ="password"></td>
+			</tr>
+
+
+
+
+
+		</table>
+			<table width ="400px" align ="center">
+			<tr bgcolor="gray" height ="40">
+			<td colspan="2"><strong>step3: 선호도</strong></td>
+	      </tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">취미</td>
+			<td><input type ="text"></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">좋아하는 색깔</td>
+			<td><input type ="password"></td>
+			</tr>
+		
+
+
+
+
+
+		</table>
+		
+
+
+
+
+
+
+
+	</form>
+</body>
+</html>

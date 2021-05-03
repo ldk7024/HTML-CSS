@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>form 태그</title>
+</head>
+<body>
+<h1>input태그: 데이터를 입력할 수 있는 태그</h1>
+<h2>input, main, submit, action</h2>
+<p>action: 전송하는곳</p>
+<p>name: 입력하는 곳 </p>
+<p>submit: action을 보내는 곳, 정보를 보내는 곳 (DAO랑 비슷)</p>
+<br>
+
+<br>
+
+</body>
+</html>

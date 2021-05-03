@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>form</title>
+</head>
+<body>
+	<form action="#">
+	<input type ="text" name ="ID" placeholder="ID" maxlength="5">
+	<input type ="text" name ="ID2" placeholder="읽기 전용입니다." readonly="readonly" >
+	<label for =p> 좋아하는 음식 </label>
+	<input type ="text" id ="p">
+    <br>
+    <br>
+    <input type="password">
+    <br>
+    <br>
+    <select>
+    <option>메일선택</option>
+    <option value ="naver.com">naver.com</option>
+    <option value ="daum.net">daum.net</option>
+    <option value ="gmail.com">gmail.com</option>
+    <option vaulue ="lycos.co.kr">lycos.co.kr</option>
+    <option value ="hanmail.net">hanmail.net</option>
+    <option value ="kik.com">kik.com</option>
+   </select>
+    <br>
+    <br>
+    <input type ="text" list ="song">
+    <datalist id ="song">
+    <option value ="선택"></option>
+    <option value ="휘파람">블랙핑크</option>
+    <option value="거짓말">빅뱅</option>
+    <option value ="Cheer up">트와이스</option>
+    <option value ="거짓말">빅뱅</option>
+    <option value ="다시만난세계">소녀시대</option>
+    </datalist>
+	
+	
+	<br>
+	<br>
+	류현진
+	<input type="checkbox">
+	박찬호
+	<input type="checkbox">
+	김광현
+	<input type="checkbox">
+	
+	
+	
+	
+	
+	
+	
+	</form>
+
+
+
+
+
+</body>
+</html>

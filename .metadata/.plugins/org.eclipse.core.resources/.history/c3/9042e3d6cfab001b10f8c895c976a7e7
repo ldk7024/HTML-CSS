@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>form</title>
+</head>
+<body>
+	<form action="#">
+	<input type ="text">
+	<input type ="button">
+	<input type ="value">
+	
+	
+	</form>
+
+
+
+
+
+</body>
+</html>

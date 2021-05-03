@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>iframe</title>
+</head>
+<body>
+	<h1>iframe: 웹페이지에 다른 웹페이지를 넣는 태그</h1>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<iframe src= ex02_a.html> </iframe>
+</body>
+</html>

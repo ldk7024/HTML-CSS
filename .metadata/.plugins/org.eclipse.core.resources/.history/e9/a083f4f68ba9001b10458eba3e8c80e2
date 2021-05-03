@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>iframe</title>
+</head>
+<body>
+	<h1>iframe: 웹페이지에 다른 웹페이지를 넣는 태그</h1>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<iframe src = ex02_a.html> </iframe>
+	<iframe width="500" height = "500"src ="https://www.smhrd.or.kr/?NaPm=ct%3Dko41bfsw%7Cci%3D0AK0000mISHug71PZeYn%7Ctr%3Dsa%7Chk%3Dab4fd626225f508a126a9ce43f396d2f7fab8336"></iframe>
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/oRO5KvSdJm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>

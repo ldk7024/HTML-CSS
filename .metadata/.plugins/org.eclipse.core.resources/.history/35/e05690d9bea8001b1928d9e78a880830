@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body bgcolor ="green" text ="white">
+
+
+<h1>이대교의 세상</h1>
+<hr width ="150px", size ="140px", color ="orange">
+<hr width ="150px", size ="120px", color ="green">
+<hr width ="150px", size ="100px", color="blue">
+<hr width ="150px">
+<hr width ="150px">
+<hr width ="150px">
+<hr width ="150px">
+<hr width ="150px">
+<hr width ="150px">
+
+</body>
+</html>

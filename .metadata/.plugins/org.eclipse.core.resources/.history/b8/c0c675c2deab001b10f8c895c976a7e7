@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>회원가입</title>
+</head>
+<body>
+<form action="#">
+<table align ="center" width ="400" bgcolor ="gray">
+<tr>
+<td><strong>step1: 아이디 /비번 입력</strong></td>
+</tr>
+<tr height ="20px" bgcolor="whitesmoke">
+<td align="center">
+아이디:
+<input type="text" name ="a">
+<td align="center">
+비밀번호:
+<input type="password" name ="a">
+<td align="center">
+비밀번호 확인:
+<input type="password" name ="a">
+
+
+
+
+
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+</body>
+</html>

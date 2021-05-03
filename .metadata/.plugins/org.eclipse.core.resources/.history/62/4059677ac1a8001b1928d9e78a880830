@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body bgcolor ="green" text ="white">
+
+
+               <h1>무지개</h1>
+<hr width ="1500px" size ="100px" color ="red">
+<hr width ="1500px" size ="150px" color ="orange">
+<hr width ="1500px" size ="150px" color ="yellow">
+<hr width ="1500px" size ="150px" color ="green">
+<hr width ="2000px" size ="150px" color ="blue">
+<hr width ="2000px" size ="150px" color ="indigo">
+<hr width ="2000px" size ="150px" color ="purple">
+
+
+</body>
+</html>

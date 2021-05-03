@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>회원가입</title>
+</head>
+<body>
+	<form action="#">
+		<table width ="400px">
+			<tr bgcolor="gray" height ="40">
+			<td colspan="2"><strong>step1: 아이디/비번 입력</strong></td>
+	      </tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td></td>
+			<td></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td></td>
+			<td></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td></td>
+			<td></td>
+			</tr>
+
+
+
+
+
+		</table>
+
+
+
+
+
+
+
+	</form>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>강좌정보 별찍기</title>
+</head>
+<body>
+<table border="1" width="500" height = "300">
+<tr bgcolor="yellow" align ="center">
+<td ><strong>과목명</strong></td>
+<td><strong>난이도</strong></td>
+<td><strong>과목명</strong></td>
+</tr>
+<tr>
+<td>Html</td>
+
+<td>★</td>
+
+<td>★★★★★</td>
+
+</tr>
+
+<tr>
+<td>CSS</td>
+<td>★★★</td>
+<td>★★★★★</td>
+</tr>
+
+
+
+
+
+
+</table>
+
+</body>
+</html>

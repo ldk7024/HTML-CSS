@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>리스트 태그</title>
+</head>
+<body bgcolor="gold">
+	<h1>리스트 태그</h1>
+	<h3>ul과 ol이 존재함</h3>
+	<h3>공통적으로 li태그가 들어가야함</h3>
+	<ul>
+		<li>실제 데이터를 작성하는 공간</li>
+		
+
+	</ul>
+	<ol>
+	<li>라면먹고싶다 배고파</li>
+	</ol>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<table align ="center" "1px" width =300 height =200>
+<caption><프로그래밍 언어></caption>
+<tr align="center">
+			<td><b>분야</b></td>
+			<td><b>언어</b></td>
+			<td><b>난이도</b></td>
+			
+			</tr>
+			<tr align="left">
+			<td>web</td>
+			<td>HTML</td>
+			<td>하</td>
+			
+			</tr>
+			<tr align="left">
+			<td>Web</td>
+			<td>CSS</td>
+			<td>중하</td>
+			
+			</tr>
+			<tr align="left">
+			<td>Bigdata</td>
+			<td>Python</td>
+			<td>하</td>
+			
+			</tr>
+			</table>
+			
+</body>
+</html>

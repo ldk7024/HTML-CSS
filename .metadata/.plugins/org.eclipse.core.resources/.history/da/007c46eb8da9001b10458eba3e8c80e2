@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>div를 배워봅시다.</title>
+</head>
+<body>
+<h1>div 공간분할태그</h1>
+<h2>경계를 분할하거나 영역을 나눌 때 사용하는 태그</h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ <div><span>스판</span></div>
+
+
+
+
+
+
+
+
+</body>
+</html>

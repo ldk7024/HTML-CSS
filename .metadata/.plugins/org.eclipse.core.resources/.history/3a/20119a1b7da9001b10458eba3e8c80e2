@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>앵커 태그</title>
+</head>
+<body>
+<h1>하이퍼 링크를 만들때 사용하는 태그</h1>
+<a href ="https://www.daum.net/">네이버</a>
+<h1 id ="main">라인</h1>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<a href = "#main">top</a>
+
+
+
+
+
+
+
+
+</body>
+</html>

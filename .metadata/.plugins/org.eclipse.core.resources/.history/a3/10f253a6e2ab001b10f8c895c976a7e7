@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>회원가입</title>
+</head>
+<body>
+	<form action="#">
+		<table width ="400px">
+			<tr bgcolor="gray" height ="40">
+			<td></td>
+			<td></td>
+	      </tr>
+			<tr>
+			<td></td>
+			<td></td>
+			</tr>
+			<tr>
+			<td></td>
+			<td></td>
+			</tr>
+			<tr>
+			<td></td>
+			<td></td>
+			</tr>
+
+
+
+
+
+		</table>
+
+
+
+
+
+
+
+	</form>
+</body>
+</html>

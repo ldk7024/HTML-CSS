@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<table border="1px" width =100 height =100></table>
+<caption>프로그래밍 언어</caption>
+<tr>
+			<td>분야</td>
+			<td>이대교</td>
+			
+			</tr>
+</body>
+</html>

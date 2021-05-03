@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>회원가입</title>
+</head>
+<body>
+	<form action="#">
+		<table>
+			<tr align="left" width="400" bgcolor="gray">
+				<td><strong>step1:아이디 /비번 입력 </strong></td>
+			</tr>
+			<tr height="200px" bgcolor="whitesmoke" align="center">
+				<td align="center">아이디: <input type="text" name="a">
+				</td>
+				<td align="center">비밀번호: <input type="password" name="a">
+				</td>
+				<td align="center">비밀번호 확인: <input type="password" name="a">
+				</td>
+			</tr>
+			<tr>
+				<td bgcolor="gray" width ="400"><strong>step2: 개인정보</strong></td>
+
+				<td bgcolor="whitesmoke">성별: 
+				       남자 
+				    <input type="radio" name="r"value="남자"> 
+				       여자 
+					<input type="radio" name="r" value="여자">
+				</td>
+				<td bgcolor="whitesmoke">혈액형: <input type="text" list="혈액형">
+					<datalist id="혈액형">
+
+						<option value="A형">A형</option>
+						<option value="B형">B형</option>
+						<option value="O형">O형</option>
+						<option value="AB형">AB형</option>
+
+					</datalist>
+				</td>
+				<td bgcolor="whitesmoke">생일: <input type="date">
+				</td>
+			</tr>
+			<
+
+
+
+
+
+			</form>
+</body>
+</html>

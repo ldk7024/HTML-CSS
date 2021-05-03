@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>회원가입</title>
+</head>
+<body>
+	<form action="#">
+		<table width ="400px" align ="center">
+			<tr bgcolor="gray" height ="40">
+			<td colspan="2"><strong>step1: 아이디/비번 입력</strong></td>
+	      </tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">아이디 :</td>
+			<td><input type ="text"></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">비밀번호 :</td>
+			<td><input type ="password"></td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">비밀번호 확인 :</td>
+			<td><input type ="password"></td>
+			</tr>
+
+
+
+
+
+		</table>
+			<table width ="400px" align ="center">
+			<tr bgcolor="gray" height ="40">
+			<td colspan="2"><strong>step2: 개인정보</strong></td>
+	      </tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">성별 :</td>
+			<td>
+			남<input type ="radio" name ="n" value ="남">
+			여<input type ="radio" name ="n" value="여">
+			</td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">혈액형 :</td>
+			<td>
+			<select>
+			<option>A형</option>
+			<option>B형</option>
+			<option>O형</option>
+			<option>AB형</option>
+			
+			</select>
+			</td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">생일 :</td>
+			<td><input type ="date"></td>
+			</tr>
+
+
+
+
+
+		</table>
+			<table width ="400px" align ="center">
+			<tr bgcolor="gray" height ="40">
+			<td colspan="2"><strong>step3: 선호도</strong></td>
+	      </tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">취미 :</td>
+			<td>
+			축구 <input type="checkbox" name="hobby" value ="축구">
+			야구<input type="checkbox" name="hobby" value ="야구">
+			농구<input type="checkbox" name="hobby" value ="농구">
+			</td>
+			</tr>
+			<tr bgcolor="whitesmoke" height ="20">
+			<td align="right">좋아하는 색깔 :</td>
+			<td><input type ="color"></td>
+			</tr>
+		
+
+
+
+
+
+		</table>
+		<table>
+		<table width ="400px" align ="center">
+		<tr bgcolor="gray" height ="40">
+	    <td colspan="2"><strong>step4: 적고 싶은 말</strong></td>
+		</tr>
+		<tr>
+		<td colspan="2"> <textarea rows="5" cols="57"></textarea> 
+		</tr>
+		
+		</table>
+		
+
+
+
+
+
+
+
+	</form>
+</body>
+</html>

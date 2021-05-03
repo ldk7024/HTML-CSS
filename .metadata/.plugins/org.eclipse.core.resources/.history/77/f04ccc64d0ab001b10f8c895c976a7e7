@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>form</title>
+</head>
+<body>
+	<form action="#">
+	<input type ="text" name ="ID" placeholder="ID" >
+	<input type ="text" name ="ID2" placeholder="ID" readonly="readonly" >
+	
+	
+	
+	</form>
+
+
+
+
+
+</body>
+</html>

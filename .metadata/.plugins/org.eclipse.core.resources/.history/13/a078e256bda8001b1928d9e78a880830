@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<i>텍스트 기울이기</i>
+<br>
+<em>중요한 문구 기울여서 강조</em>
+
+<p color = "red">글자 색을 바꾸어 볼까요 우리?</p>
+
+</body>
+</html>
