@@ -1,0 +1,35 @@
+@charset "EUC-KR";
+
+#div1{
+   background-color: red;
+   width: 100px;
+   height: 100px;
+   border-top-right-radius: 50%;
+   border-bottom-left-radius: 50%;
+	}
+       #div2{
+      background-color: blue;
+      width : 100px;
+      height : 100px;
+      margin-left: 100px;
+        border-top-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+   }
+   
+   #div3{
+      background-color: green;
+      width : 100px;
+      height : 100px;
+      margin-left: 200px;
+        border-top-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+   }
+   
+   #div4{
+      background-color: gray;
+      width : 100px;
+      height : 100px;
+      margin-left: 300px;
+        border-top-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+   }
