@@ -1,0 +1,29 @@
+@charset "EUC-KR";
+
+* {
+	width: 500px;
+	height: 500px;
+	border: 1px;
+}
+
+#header {
+	position: relative;
+}
+
+#side {
+	height: 300px;
+	width: 100px;
+	float: left;
+}
+
+#ad {
+	height: 300px;
+	width: 100px;
+	float: right;
+}
+#main{
+	
+}
+#footer{
+	
+}
